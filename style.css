@@ -75,6 +75,7 @@ body {
 
 a {
     color: #69A41E;
+    text-decoration: none;
 }
 
 .text-orange {
@@ -87,6 +88,7 @@ a {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'antonioregular';
+    line-height: 120%;
 }
 
 /* h1 32px */  
